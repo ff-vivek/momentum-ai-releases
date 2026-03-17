@@ -2,7 +2,7 @@
 
 Your AI-powered productivity companion for macOS.
 
-## Download Latest (v2.5.1)
+## Download Latest (v2.6.0)
 
 | | Link |
 |---|---|
